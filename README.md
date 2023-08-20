@@ -6,7 +6,7 @@ A simple Godot demo that randomly generates small islands with different landsca
 
 This is a prototype of a procedural generation mechanic written in Godot. The prototype contains a main Game.tscn that drops the player in an open space with a few islands that are generated dynamically each time the game starts. The player will always start on one island and can move around with W, A, S, and D keys to explore the other islands.
 
-Water is also implemented, but is a collider and so the player will simply walk on top of it. No swimming or similar mechanics are on display here. The water shader is also a procedural texture inspired by [The Legend of Zelda: Wind Waker|https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker]. The shader used is based on this [Wind Waker styled shader|https://www.shadertoy.com/view/3tKBDz] on shader toy, with some of my own small modifications.
+Water is also implemented, but is a collider and so the player will simply walk on top of it. No swimming or similar mechanics are on display here. The water shader is also a procedural texture inspired by [The Legend of Zelda: Wind Waker](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker). The shader used is based on this [Wind Waker styled shader](https://www.shadertoy.com/view/3tKBDz) on shader toy, with some of my own small modifications.
 
 ## Technical
 
