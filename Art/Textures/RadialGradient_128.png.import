@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/RadialGradient_128.png-cf4f9979bd15d40115b7f55d9f369f1f.image"
+
+[deps]
+
+source_file="res://Art/Textures/RadialGradient_128.png"
+dest_files=[ "res://.import/RadialGradient_128.png-cf4f9979bd15d40115b7f55d9f369f1f.image" ]
+
+[params]
+
